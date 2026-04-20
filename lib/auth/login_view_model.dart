@@ -9,5 +9,6 @@ class LoginViewModel {
     print("Password,${password.value}");
     print("Arasad Alam,${password.value}");
     print("Arasad khan,${password.value}"); // ye code
+    print("Arasad khan, Alam${password.value}"); // ye code
   }
 }
