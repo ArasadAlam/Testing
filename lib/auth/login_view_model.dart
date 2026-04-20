@@ -7,5 +7,6 @@ class LoginViewModel {
   void login() {
     print("Email,${email.value}");
     print("Password,${password.value}");
+    print("Arasad Alam,${password.value}");
   }
 }
