@@ -8,6 +8,6 @@ class LoginViewModel {
     print("Email,${email.value}");
     print("Password,${password.value}");
     print("Arasad Alam,${password.value}");
-    print("Arasad khan,${password.value}");
+    print("Arasad khan,${password.value}"); // ye code
   }
 }
